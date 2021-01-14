@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "EvolandPakExtractor": {
+      "commandName": "Project",
+      "commandLineArgs": "--pack evo21_output evo21_new.pak",
+      "workingDirectory": "D:\\Debugging\\Projects\\Evoland Legendary Edition"
+    }
+  }
+}
